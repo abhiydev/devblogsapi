@@ -1,5 +1,5 @@
 module.exports = {
-    URL: 'http://devblogsapi.railway.internal',
-    IF: 'http://localhost:8000/images'
+    URL: 'http://localhost:8000',
+    IF: 'http://localhost:8000'
   };
   
